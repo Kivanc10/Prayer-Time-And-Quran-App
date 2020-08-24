@@ -45,4 +45,34 @@ One more instances
 
 ![namaz](https://user-images.githubusercontent.com/51750773/90987573-9838c800-e594-11ea-81bd-cb86f18251af.jpg)
 
+
+
+## Dependecies 
+
+* @react-native-community/masked-view": "0.1.10
+* @react-navigation/bottom-tabs": "^5.6.1"
+* @react-navigation/drawer": "^5.8.4"
+* @react-navigation/native": "^5.6.1",
+* @react-navigation/stack": "^5.6.2",
+* axios": "^0.19.2"
+* expo": "~38.0.8",
+* expo-av": "~8.2.1",
+* expo-status-bar": "^1.0.2",
+* link": "^0.1.5",
+* react": "~16.11.0",
+* react-dom": "~16.11.0",
+* react-native": "https://github.com/expo/react-native/archive/sdk-38.0.1.tar.gz",
+* react-native-compass-heading": "^1.0.2",
+* react-native-gesture-handler": "~1.6.0",
+* react-native-reanimated": "~1.9.0",
+* react-native-safe-area-context": "~3.0.7",
+* react-native-screens": "~2.9.0",
+* react-native-vector-icons": "^6.7.0",
+* react-native-video": "^4.4.5",
+* react-native-web": "~0.11.7"
+* redux": "^4.0.5",
+* @react-native-community/picker": "1.6.0"
+
+
+
  
