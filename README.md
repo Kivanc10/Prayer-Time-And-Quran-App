@@ -45,6 +45,15 @@ One more instances
 
 ![namaz](https://user-images.githubusercontent.com/51750773/90987573-9838c800-e594-11ea-81bd-cb86f18251af.jpg)
 
+## Using
+
+* git clone https://github.com/Kivanc10/Prayer-Time-And-Quran-App.git
+
+* cd Prayer-Time-And-Quran-App
+
+* npm install expo-cli --global
+
+* expo start
 
 
 ## Dependencies 
