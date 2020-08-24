@@ -47,13 +47,13 @@ One more instances
 
 ## Using
 
-* git clone https://github.com/Kivanc10/Prayer-Time-And-Quran-App.git
+* `git clone https://github.com/Kivanc10/Prayer-Time-And-Quran-App.git`
 
-* cd Prayer-Time-And-Quran-App
+* `cd Prayer-Time-And-Quran-App`
 
-* npm install expo-cli --global
+* `npm install expo-cli --global`
 
-* expo start
+* `expo start`
 
 
 ## Dependencies 
