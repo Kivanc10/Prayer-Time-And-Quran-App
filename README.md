@@ -47,7 +47,7 @@ One more instances
 
 
 
-## Dependecies 
+## Dependencies 
 
 * @react-native-community/masked-view": "0.1.10
 * @react-navigation/bottom-tabs": "^5.6.1"
